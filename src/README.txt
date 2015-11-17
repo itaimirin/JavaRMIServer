@@ -1,6 +1,6 @@
 READ ME:
 ------------------------------------
-AUTHOR: ITAI MARONGWE 100885911
+AUTHOR: ITAI MARONGWE 
 ------------------------------------
 
 CLIENT.java is the RMI Client that invokes the remote methods from the Server.
